@@ -25,3 +25,26 @@ A simple command-line Password Manager built using Python.
 ## How to Run
 
 python main.py
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Save Password
+![Save Password](screenshots/save.png)
+
+### View Passwords
+![View Passwords](screenshots/view.png)
+
+### Search Password
+![Search Password](screenshots/search.png)
+
+### Update Password
+![Update Password](screenshots/update.png)
+
+### Delete Password
+![Delete Password](screenshots/delete.png)
+
+### Generate Password
+![Generate Password](screenshots/generate.png)
