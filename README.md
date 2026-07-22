@@ -26,6 +26,7 @@ A simple command-line Password Manager built using Python.
 
 python main.py
 
+
 ## Screenshots
 
 ### Main Menu
